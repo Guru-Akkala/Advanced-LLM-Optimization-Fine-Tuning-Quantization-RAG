@@ -1,3 +1,3 @@
-# Advanced-LLM-Optimization-Fine-Tuning-Quantization-RAG
+# Advanced LLM Optimization: Fine-Tuning, Quantization & RAG
 
 This project explores multiple advanced LLM and agentic-AI workflows. It includes building a simple agent connected to backend tools, followed by experimentation with a fully automated multi-agent system inspired by state-of-the-art open-source frameworks. The project also covers fine-tuning large-scale LLaMA models using both LoRA and QLoRA techniques on custom datasets, demonstrating practical experience in parameter-efficient training. Additional components include implementing Retrieval-Augmented Generation (RAG) with Mistral, integrating Mistral with LangChain for enhanced prompting workflows, and performing LLM quantization to optimize model size and inference efficiency.
